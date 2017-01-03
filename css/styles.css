@@ -1,0 +1,130 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.cat-card-title:hover {
+    font-weight: 300;
+}
+
+.easyToUse-head {
+    border-bottom: 4px solid #2AB7A9;
+    opacity: 0.6;
+}
+
+.engagement-head {
+    border-bottom: 4px solid #C42D9C;
+    opacity: 0.6;
+}
+
+.personalize-head {
+    border-bottom: 4px solid #68C400;
+    opacity: 0.6;
+}
+
+.persuasion-head {
+    border-bottom: 4px solid #E21D34;
+    opacity: 0.6;
+}
+
+.positivity-head {
+    border-bottom: 4px solid #F99509;
+    opacity: 0.6;
+}
+
+.presentation-head {
+    border-bottom: 4px solid #602AB7;
+    opacity: 0.6;
+}
+
+.easyToUse-head:hover, .engagement-head:hover, .personalize-head:hover, .persuasion-head:hover, .presentation-head:hover, .positivity-head:hover, .active-head {
+    opacity: 1.0;
+    font-weight: 500;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+.cat-card-title {
+    color: #ffffff;
+    padding: 30px;
+}
+
+.cat-easy {
+    background-color: #2AB7A9;
+}
+
+.cat-engagement {
+    background-color: #C42D9C;
+}
+
+.cat-personalize {
+    background-color: #68C400;
+}
+
+.cat-persuasion {
+    background-color: #E21D34;
+}
+
+.cat-positivity {
+    background-color: #F99509;
+}
+
+.cat-presentation {
+    background-color: #602AB7;
+}
+
+.cat-container {
+    margin-top: 10%;
+}
+
+.panel-heading {
+    background-color: #FFFFFF !important;
+    height: 70px !important;
+}
+
+.richtlijn-title {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 55px;
+}
+
+.richtlijn-title a:hover {
+    text-decoration: none !important;
+}
+
+.easy-title {
+    color: #2AB7A9 !important;
+}
+
+.engagement-title {
+    color: #C42D9C !important;
+}
+
+.personalize-title {
+    color: #68C400 !important;
+}
+
+.persuasion-title {
+    color: #E21D34 !important;
+}
+
+.positivity-title {
+    color: #F99509 !important;
+}
+
+.presentation-title {
+    color: #602AB7 !important;
+}
+
+.panel-body > p {
+    max-width: 750px;
+}
